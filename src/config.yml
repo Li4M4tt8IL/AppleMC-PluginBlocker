@@ -1,0 +1,6 @@
+Messages:
+  blocked-command: "&cNie ma takiej komendy."
+
+WhitelistedCommands:
+  - "bal"
+  - "ec"

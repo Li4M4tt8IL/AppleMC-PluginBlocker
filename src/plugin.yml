@@ -1,0 +1,16 @@
+name: AppleMC-PluginBlocker
+version: 1.0.0
+main: me.pm.pluginblocker.Main
+author: ThatsNotLiam1337
+api-version: 1.13
+
+commands:
+  pbreload:
+    description: Reloads the config
+    usage: pbreload
+
+permissions:
+  pblocker.reload:
+    default: op
+  pblocker.bypass:
+    default: op

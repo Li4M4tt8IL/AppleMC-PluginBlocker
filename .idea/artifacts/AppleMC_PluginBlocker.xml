@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AppleMC-PluginBlocker">
+    <output-path>$PROJECT_DIR$/out/artifacts/AppleMC_PluginBlocker</output-path>
+    <root id="archive" name="AppleMC-PluginBlocker.jar">
+      <element id="module-output" name="AppleMC-PluginBlocker" />
+    </root>
+  </artifact>
+</component>
